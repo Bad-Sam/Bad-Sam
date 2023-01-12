@@ -1,7 +1,7 @@
 ## Hi, I'm Sami :wave:
 
 I'm an aspirant game engine programmer.  
-I aim to empower game programmers, designers and artists with scalable top-notch tools and systems.
+I aim to empower game designers, artists and programmers with scalable top-notch tools and systems.
 
 #### Things I find fascinating or want to get into
 Hardware, code optimisation and performance, low-level programming, SIMD and x86-64 intrinsics, assembly, C and C++, efficient memory management, allocators, multithreading, file system, audio programming, graphical user interface from scratch, low-level network/socket programming, code algorithms and patterns, mathematics, physics
